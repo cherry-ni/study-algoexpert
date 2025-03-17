@@ -1,3 +1,5 @@
+# O(n) time | O(1) space
+
 def isValidSubsequence(array, sequence):
     # Write your code here.
     i = 0;
