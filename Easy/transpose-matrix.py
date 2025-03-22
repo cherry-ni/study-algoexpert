@@ -21,5 +21,5 @@ matrix = [
     [4, 5, 6]
   ]
 
-result = transposeMatrix(matrix)
-print(result)
+if __name__=='__main__':
+    print(transposeMatrix(matrix))
